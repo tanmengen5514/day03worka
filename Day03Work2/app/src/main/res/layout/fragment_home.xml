@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tan.en.day03work2.fragment.HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/tv"
+        android:text="北京大学和顶尖管理咨询集团高级合伙人讲师讲师
+        合肥财经学院的老师多年担任客座教授丁和中层经理,大型企业集团在
+        集团和企业人力资源管理模块有丰富的实战经验,培训和咨询,结合实战
+        训练和管理咨询经验的过程中,能使培训课程做到有声落地，赢得了客户
+        的认可。丁老师的教学简单、清晰、有趣、吸引人。对合同大纲的评语，
+        使用准确规范的语言，对企业或学生的培训给予了很高的评价。"
+        />
+
+</FrameLayout>
